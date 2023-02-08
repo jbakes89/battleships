@@ -1,5 +1,5 @@
-# Webpack Boilerplate
+# Battleships
 
-This repo contains boilerplate for a new npm/webpack project, which I should be able to use as an entry point for new projects in the future.
+This is a battleships game being created as part of the Testing JavaScript module in The Odin Project's JavaScript course.
 
-It comes with babel, eslint, prettier, and jest installed. Note that I'm still getting to grips with these different packages and how they interact with each other, so there are probably lots of things set up suboptimally, and some things may be broken. This boilerplate is very much a work in progress.
+The aim of this project is to learn and practice test-driven development (TDD). I feel comfortable enough coding a battleships game, so, personally, I am only planning to do enough to get a proper feel for TDD, and I probably won't spend time polishing the project; I may not even get around to creating a fully functioning UI.
